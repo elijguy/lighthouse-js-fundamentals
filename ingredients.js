@@ -13,7 +13,7 @@ for (var b = 0; b < 7; b++)
 }
 
 
-for (var c = 7; c>0; c--)
+for (var c = 7; c>-1; c--)
 {
   console.log(ingredients[c]);
 }
